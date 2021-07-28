@@ -1,0 +1,14 @@
+{
+  "name": "OlaMundo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "OlaMundo.html",
+  "scripts": {
+    
+  },
+  "keywords": [
+    "olamundo"
+  ],
+  "author": "Henthony",
+  "license": "ISC"
+}

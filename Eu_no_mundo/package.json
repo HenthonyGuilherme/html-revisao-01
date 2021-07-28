@@ -1,0 +1,14 @@
+{
+  "name": "eu_no_mundo",
+  "version": "1.0.0",
+  "description": "segunda atividade npm",
+  "main": "eu_no_mundo.html",
+  "scripts": {
+    
+  },
+  "keywords": [
+    "eu_no_mundo"
+  ],
+  "author": "Henthony",
+  "license": "ISC"
+}
